@@ -1,7 +1,7 @@
-# Basic Project
-## Basic Project Structure
+# Jog Hours Project
+## Jogging Hours Project
 
-*Default Structure for A Basic Project*
+*Default Structure for A Jogging Hours Project*
 
 **Java 7**
 
